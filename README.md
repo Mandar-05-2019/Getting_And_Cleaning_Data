@@ -2,7 +2,7 @@
 
 repository for getting and cleaning data assignment
 
-Download the original uncleaned dataset from [a link](https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip)
+Download the original uncleaned dataset from [https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip](https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip)
 
 Load the R-script 'run_analysis.R' and run the 'loadAllDatasetsAndClean()' function for getting and cleaning data.
 

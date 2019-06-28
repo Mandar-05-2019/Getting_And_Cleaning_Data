@@ -76,6 +76,8 @@ This CodeBook is related to the dataset contained in "tidy_dataset.txt" in the r
 * fBodyBodyGyroJerkMagMean
 * fBodyBodyGyroJerkMagStdDev
 
+Find more information about the attributes: [http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones)
+
 
 ## Following are the activities coresponding with activity values in dataset <a name="activity"></a>
 

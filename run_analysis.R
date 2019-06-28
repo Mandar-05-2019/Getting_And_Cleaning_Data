@@ -100,7 +100,7 @@ loadAllDatasetsAndClean <- function(){
         DataFull$activity <- factor(DataFull$activity, levels = c(1:nrow(activityLabels)), labels = activityLabels[,1])
         DataFull$subject <- as.factor(DataFull$subject)
         
-        Data_final <- DataFull %>% group_by(subject, activity) %>% summarise_each(funs(mean))
+        Data_final <- DataFull %>% group_by(subject, activity) %>% summarise_each(list(mean))
         #print(dim(Data_final))
         write.table(Data_final, "tidy_dataset.txt", row.names = FALSE, quote = FALSE)
         #write(colnames(Data_final), "temp.txt")

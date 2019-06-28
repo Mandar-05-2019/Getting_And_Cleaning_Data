@@ -77,11 +77,11 @@ This CodeBook is related to the dataset contained in "tidy_dataset.txt" in the r
 * fBodyBodyGyroJerkMagStdDev
 
 
-##Following are the activities coresponding with activity values in dataset <a name="activity"></a>
+## Following are the activities coresponding with activity values in dataset <a name="activity"></a>
 
-* 1 --> WALKING
-* 2 --> WALKING_UPSTAIRS
-* 3 --> WALKING_DOWNSTAIRS
-* 4 --> SITTING
-* 5 --> STANDING
-* 6 --> LAYING
+* 1 WALKING
+* 2 WALKING_UPSTAIRS
+* 3 WALKING_DOWNSTAIRS
+* 4 SITTING
+* 5 STANDING
+* 6 LAYING

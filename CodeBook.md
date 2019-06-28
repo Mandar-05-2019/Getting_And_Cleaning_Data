@@ -2,12 +2,12 @@
 
 This CodeBook is related to the dataset contained in "tidy_dataset.txt" in the repository. Please refer to "README.md" for additional information about dataset transformation.
 
-## Following are the Data identifiers for the measurments:
+## Following are the Data identifiers for the measurments <a name="Identifiers"></a>
 
 * subject
 * activity
 
-## Following are the variables associated with the cleaned data:
+## Following are the variables associated with the cleaned data <a name="Variables"></a>
 
 * tBodyAccMean-X
 * tBodyAccMean-Y
@@ -77,7 +77,7 @@ This CodeBook is related to the dataset contained in "tidy_dataset.txt" in the r
 * fBodyBodyGyroJerkMagStdDev
 
 
-##Following are the activities coresponding with activity values in dataset:
+##Following are the activities coresponding with activity values in dataset <a name="activity"></a>
 
 * 1 --> WALKING
 * 2 --> WALKING_UPSTAIRS

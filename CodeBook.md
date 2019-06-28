@@ -2,12 +2,12 @@
 
 This CodeBook is related to the dataset contained in "tidy_dataset.txt" in the repository. Please refer to "README.md" for additional information about dataset transformation.
 
-##Following are the Data identifiers for the measurments:
+## Following are the Data identifiers for the measurments:
 
 * subject
 * activity
 
-##Following are the variables associated with the cleaned data:
+## Following are the variables associated with the cleaned data:
 
 * tBodyAccMean-X
 * tBodyAccMean-Y
